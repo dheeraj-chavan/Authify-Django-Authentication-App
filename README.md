@@ -1,5 +1,4 @@
 # Authify-Django-Authentication-App
-# Django Authentication App
 
 ## Features
 - User login, logout, registration, and profile management.
